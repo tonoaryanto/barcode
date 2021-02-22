@@ -17,7 +17,7 @@
 <!-- Automatic element centering -->
 <div class="lockscreen-wrapper">
   <div class="lockscreen-logo">
-    <img src="<?php echo base_url();?>assets/icon/iconlogo.png" style="width:100px;"><br>
+    <img src="<?php echo base_url();?>assets/icon/Iconlogo.png" style="width:100px;"><br>
     <a href="javascript:void(0);"><b>Ansell</b> Barcode Generator</a>
   </div>
   <br>
